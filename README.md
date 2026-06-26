@@ -143,7 +143,7 @@ Comment of file: Sample track
 
 ## 👨‍💻 Author
 
-**N. Mohammed Shaqeeb**
+**Karthikeyan J**
 
 ---
 
